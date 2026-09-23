@@ -21,16 +21,16 @@
 
 <br><br>
 
-<a href="https://github.com/Bredalis">
+<a href="https://github.com/li-future-builder">
 <img src="https://img.shields.io/badge/GitHub-Bredalis-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/bredalis-gautreaux/">
 <img src="https://img.shields.io/badge/LinkedIn-Bredalis%20Gautreaux-bfdbfe?style=for-the-badge&logo=linkedin&logoColor=4f46e5" />
 </a>
-<a href="https://www.youtube.com/">
+<a href="https://www.youtube.com/@lifuturebuilder">
 <img src="https://img.shields.io/badge/YouTube-Future%20Builder-fbcfe8?style=for-the-badge&logo=youtube&logoColor=be185d" />
 </a>
-<a href="https://www.pinterest.com/">
+<a href="https://www.pinterest.com/lifuturebuilder/">
 <img src="https://img.shields.io/badge/Pinterest-STEM%20%26%20Ideas-fce7f3?style=for-the-badge&logo=pinterest&logoColor=be185d" />
 </a>
 
@@ -153,13 +153,13 @@ I’m especially fascinated by the point where **mathematics, computation and ph
 
 ## 🌐 FIND ME IN THE DIGITAL UNIVERSE
 
-<a href="https://www.youtube.com/">YouTube</a>
+<a href="https://www.youtube.com/@lifuturebuilder">YouTube</a>
 &nbsp; ✦ &nbsp;
 <a href="https://www.linkedin.com/in/bredalis-gautreaux/">LinkedIn</a>
 &nbsp; ✦ &nbsp;
-<a href="https://www.pinterest.com/">Pinterest</a>
+<a href="https://www.pinterest.com/lifuturebuilder/">Pinterest</a>
 &nbsp; ✦ &nbsp;
-<a href="https://github.com/Bredalis">GitHub</a>
+<a href="https://github.com/li-future-builder">GitHub</a>
 
 <br><br>
 
