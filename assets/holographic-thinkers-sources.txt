@@ -1,0 +1,15 @@
+Image sources used in holographic-thinkers-updated.svg
+
+Albert Einstein — Wikimedia Commons, “Albert Einstein photo 1921.jpg”
+https://commons.wikimedia.org/wiki/File:Albert_Einstein_photo_1921.jpg
+Public domain in the United States according to the Wikimedia Commons file page.
+
+Isaac Newton — Wikimedia Commons, “Portrait of Sir Isaac Newton, 1689.jpg”
+https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689.jpg
+Public domain work; see the Wikimedia Commons file page for jurisdiction details.
+
+Nikola Tesla — Wikimedia Commons, “Nikola Tesla around 1890.jpg”
+https://commons.wikimedia.org/wiki/File:Nikola_Tesla_around_1890.jpg
+CC BY-SA 4.0; attribution/share-alike terms apply.
+
+Note: the SVG references the image files directly from upload.wikimedia.org rather than embedding them as base64 data. This makes the SVG small, but it requires network access when the SVG is viewed.
