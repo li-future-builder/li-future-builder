@@ -42,9 +42,6 @@
 
 ## 🎀 `THE FUTURE BUILDER`
 
-> 🎀 **Social links:** I left YouTube and Pinterest at their platform home pages because their exact profile URLs were not provided. Replace those two links with your profile URLs before publishing.
->
-
 > **Curious mind • big dreams • soft heart**  
 > I’m exploring the mathematics, artificial intelligence and physics that shape the technologies of tomorrow.  
 > My goal is simple: **learn deeply → experiment → build → discover.** 🧠✨
@@ -59,7 +56,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=820&lines=%5C%5C+Artificial+Intelligence+%5C%5C;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Data+%2B+Algorithms+%2B+Mathematics;P(X)%C2%B7log(P(X))+%E2%86%92+information+%F0%9F%8C%99;f(x)%3D%CF%83(Wx%2Bb)+%E2%86%92+learning+through+functions;%CF%80+%E2%89%88+3.141592653589793; e+%E2%89%88+2.718281828459045" alt="AI and mathematics dynamic panel"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=820&lines=Artificial+Intelligence;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Data+%2B+Algorithms+%2B+Mathematics;P%28X%29%C2%B7log%28P%28X%29%29+%E2%86%92+information;f%28x%29+%3D+%CF%83%28Wx+%2B+b%29+%E2%86%92+learning;pi+%E2%89%88+3.141592653589793;e+%E2%89%88+2.718281828459045"
+     alt="AI and mathematics dynamic panel"/>
 
 <br>
 
@@ -110,14 +108,21 @@ I’m especially fascinated by the point where **mathematics, computation and ph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bredalis&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=ec4899&text_color=6b7280&ring_color=c084fc" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bredalis&layout=compact&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=6b7280" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=li-future-builder&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=ec4899&text_color=6b7280&ring_color=c084fc"
+     height="165"
+     alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-future-builder&layout=compact&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=6b7280"
+     height="165"
+     alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bredalis&bg_color=00000000&color=a855f7&line=ec4899&point=c084fc&area=true&hide_border=true" width="96%" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=li-future-builder&bg_color=00000000&color=a855f7&line=ec4899&point=c084fc&area=true&hide_border=true"
+     width="96%"
+     alt="Contribution activity graph"/>
 
 </div>
 
@@ -163,7 +168,7 @@ I’m especially fascinated by the point where **mathematics, computation and ph
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Bredalis&label=VISITORS&color=c084fc&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=li-future-builder&label=VISITORS&color=c084fc&style=for-the-badge" alt="Profile views"/>
 
 <br><br>
 
