@@ -104,35 +104,11 @@ I’m especially fascinated by the point where **mathematics, computation and ph
 
 ---
 
-## 🧪 MY DIGITAL LAB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=li-future-builder&show_icons=true&hide_border=true&bg_color=00000000&title_color=a855f7&icon_color=ec4899&text_color=6b7280&ring_color=c084fc"
-     height="165"
-     alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-future-builder&layout=compact&hide_border=true&bg_color=00000000&title_color=a855f7&text_color=6b7280"
-     height="165"
-     alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=li-future-builder&bg_color=00000000&color=a855f7&line=ec4899&point=c084fc&area=true&hide_border=true"
-     width="96%"
-     alt="Contribution activity graph"/>
-
-</div>
-
----
-
 ## 👩🏻‍🔬 HOLOGRAPHIC THINKERS
 
 <div align="center">
 
-<img src="./assets/scientists-hologram.svg" width="780" alt="Holographic portraits of Albert Einstein, Isaac Newton and Nikola Tesla"/>
+<img src="assets/scientists-hologram.svg" width="780" alt="Holographic portraits of Albert Einstein, Isaac Newton and Nikola Tesla"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=%E2%9C%A6+IDEAS+FIRST+EXIST+IN+THE+MIND+%E2%9C%A6;%E2%9A%9B%EF%B8%8F+Question+%E2%86%92+Model+%E2%86%92+Experiment+%E2%86%92+Discovery;%F0%9F%8C%99+Curiosity+is+my+favorite+algorithm" alt="Scientific thought panel"/>
 
